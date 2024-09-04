@@ -47,7 +47,7 @@ return (
       <div id="seven" onClick={handleNumber}>7</div>
       <div id="eight" onClick={handleNumber}>8</div>
       <div id="nine" onClick={handleNumber}>9</div>
-      <div id="multiply" onClick={handleOperator}>x</div>
+      <div id="multiply" onClick={handleOperator}>*</div>
       <div id="four" onClick={handleNumber}>4</div>
       <div id="five" onClick={handleNumber}>5</div>
       <div id="six" onClick={handleNumber}>6</div>
